@@ -11,7 +11,7 @@ data ={
 df = pd.DataFrame(data)
 print("---Sample DataFrame---")
 print(df)
-print("\n---DataFrame Description---") sdasd
+print("\n---DataFrame Description---")
 print(df.describe())
 # mean = average (a+b)/2
 # std = standard deviation (Sample Std	)
