@@ -1,0 +1,7 @@
+problem:
+
+1- how big is your dataset
+2- what are the names of columns
+
+solve:
+shape and columns

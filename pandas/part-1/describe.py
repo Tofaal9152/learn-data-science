@@ -14,7 +14,8 @@ print(df)
 print("\n---DataFrame Description---")
 print(df.describe())
 # mean = average (a+b)/2
-# std = standard deviation (Sample Std	)
+# for learn do chatGPT std
+# std = standard deviation (Sample Std) 
 # min = minimum value in the column
 # 25% = first quartile (Q1) - 25% of the data is below this value
 # 50% = median (Q2) - 50% of the data is below this value
