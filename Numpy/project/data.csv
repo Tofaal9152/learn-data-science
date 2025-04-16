@@ -1,0 +1,27 @@
+Emp ID,Name,Age,Salary (INR),Experience,City,Department,Performance Rating
+101,Amit Sharma,27,650000.0,4.0,Delhi,HR,4.5
+102,Rajesh Verma,45,,,Mumbai,Finance,3.8
+103,Priya sangh,29,1200000.0,,Bangalore,IT,4.9
+104,Riya Gupta,32,720000:0,6.0,Kolkata,HR,
+105,Sunil Kumar,26,500000.0,2.0,Delhi,,3.5
+106,,28,,3.0,Chennai,IT,
+107,Meena Joshi,30,800000.0,,Delhi,Marketing,4.2
+108,Ajay singh,NaN,1000000,5.5,Mumbai,finance,3.7
+109,Sneha Patil,,850000,4.0,Bengaluru,IT,4.8
+110,Anil Roy,31,  ,3.0,Pune,Sales,2.9
+111,Kiran R,34,1100000.0,7,Chennai,Sales,
+112,Vikas Pandey,29,760000.00,,Hyderabad,hr,4.0
+113,Pooja Sinha,,650000.0,2.0,Delhi,Marketing,3.4
+114,Aarav Mehta,27,540000,2.5,Ahmedabad,IT,
+115,,33,,4.0,Kolkata,Finance,3.6
+116,Divya Jain,NaN,960000.0,,Bangalore,Finance,4.3
+117,Tanvi Das,28,670000.0,3.0,,Marketing,4.1
+117,Tanvi Das,28,670000.0,3.0,,Marketing,4.1
+118,Nikhil Kapoor,30,88000000000.00,5.0,Delhi,IT,4.7
+119,,26,,1.0,Pune,,3.0
+120,Sagar Rana,35,1010000.0,7.0,Mumbai,HR,NaN
+121,Reema Paul,31,940000.0,,Kolkata,,3.9
+122,Yash Khanna,33,,6.5,Bangalore,Sales,
+123,Deepa Iyer,29,710000,,Chennai,Marketing,3.8
+124,,28,600000.0,3.0,,Finance,4.0
+125,Rohan Malhotra,40,1250000.0,12.0,Mumbai,IT,5
